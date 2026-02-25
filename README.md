@@ -1,1 +1,1 @@
-This is for making an AI agent which would help users to conver their handwritten notes into correct digital text.
+This is for making an AI agent which would help users to conver their handwritten notes into correct digital text. Not only AI but the model uses the cores of linguistics as well to understand all handwritings and make meaningful modifications when required.
